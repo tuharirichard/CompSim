@@ -1,2 +1,2 @@
 # CompSim
-Computer Simulations course reports
+Computer Simulations course reports (Hun)
